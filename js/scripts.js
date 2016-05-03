@@ -62,3 +62,18 @@ jQuery(document).ready(function() {
 	   });   
 });
 
+
+
+/*Menu transparent puis redevient opaque au scroll*/
+/*$(document).ready(function(){       
+        var scroll_pos = 0;
+        $(document).scroll(function() { 
+            scroll_pos = $(this).scrollTop();
+             if(scroll_pos > 210) {
+                $("nav").removeClass().addClass('transparent');
+            } else {
+                $("nav").removeClass('transparent').addClass('NoTransparent');
+            }
+        });
+});*/
+
