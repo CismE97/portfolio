@@ -1,11 +1,14 @@
 /*Effet sur les créations*/
+var hover = "hover";
+var unhover ="unhover";
+
 $( ".creation_item" ).hover(
 function() {
-    $( this ).find("p").removeClass( "unhover" ); 
-    $( this ).find("p").addClass( "hover" );
+    $( this ).find("p").removeClass(unhover); 
+    $( this ).find("p").addClass(hover);
 }, function() {
-    $( this ).find("p").addClass( "unhover" );
-    $( this ).find("p").removeClass( "hover" );
+    $( this ).find("p").addClass(unhover);
+    $( this ).find("p").removeClass(hover);
 });
 
 /*Scroll Link*/
@@ -61,8 +64,6 @@ jQuery(document).ready(function() {
 	    offset: 100    
 	   });   
 });
-
-
 
 /*Menu transparent puis redevient opaque au scroll*/
 /*$(document).ready(function(){       
