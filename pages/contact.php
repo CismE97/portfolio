@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-12">
                 <h2 class="text-center"> - Contact - </h2>
-                <form method="post" action="/contact" id="contactForm">
+                <form method="post" action="#contact" id="contactForm">
                   <div class="form-group">
                     <label for="email">E-Mail *</label>
                     <input type="email" name="email" id="email" placeholder="E-Mail" class="form-control" required="">
@@ -27,10 +27,10 @@
             <textarea name="textContent" id="textContent" placeholder="Texte" class="form-control" rows="5"></textarea>
           </div>
           <p class="text-primary">* Champs obligatoires</p>
-          <button type="submit" class="btn btn-primary btn-lg ">
+          <button type="submit" value="submit" name="submit" class="btn btn-primary btn-lg ">
             Envoyer !
           </button>
-        </form>        
+		</form>        
             </div>
             <!-- /.row -->
         </div>

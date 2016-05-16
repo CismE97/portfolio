@@ -11,6 +11,7 @@
     <link href="animate.css" rel="stylesheet">
   </head>
   <body>
+	  <?php include("./includes/functions.php");?>
       <?php include("./includes/navbar.php");?>
       <?php include("./includes/header.php");?>
       
