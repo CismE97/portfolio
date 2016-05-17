@@ -4,7 +4,7 @@
                 <div class="col-lg-12 text-center">
                     <h2> - Créations - </h2>
                     <div class="col-lg-12 text-justify">
-                        <p>t le touffes tapisse fleurir. Donc sans tete avez bien nid son. Du la puissions signalant.</p>
+                        <p>Vous trouverez ci-dessous les sites web aux quels j'ai participé en tant que développeur.</p>
                     </div>    
                     <a href="http://www.enroulex.ch/" target="_blank"><div class="col-lg-3 vertical-center creation_item enroulex">
                         <span class="passion_vertical_middle">

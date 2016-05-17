@@ -4,9 +4,6 @@
                 <div class="col-lg-12 text-center">
                     <h2>- Informations me concernant - </h2>
 					<div class="col-lg-12 text-justify">
-						<p>Et le touffes tapisse fleurir. Donc sans tete avez bien nid son. Du la puissions signalant sanglante le uniformes reprendre. 
-						Ca flaques or ah chatoie conquis qu. Gloire arbres avance bonnes la depart en oh pendus. Trahison regiment ce he musiques derriere 
-						ethiopie quarante. Pas longues oui mauvais hauteur retient prairie ils sur.</p>
 					</div>
 					<div class="col-lg-4 text-justify">
 						<h3>Données personnelles</h3>
@@ -17,8 +14,6 @@
 						  <dd>Saignelégier / JU</dd>
 						  <dt>Statut</dt>
 						  <dd>Etudiant</dd>
-						  <dt>...</dt>
-						  <dd>...</dd>
 						</dl>
 					</div>
                     <div class="col-lg-8 text-justify">

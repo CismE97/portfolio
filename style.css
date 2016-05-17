@@ -130,7 +130,6 @@ hr {
 	background-color:#286090;
 }
 .cv img{
-    width:20%;
     margin:auto;
     margin-bottom: 10px;
 }
@@ -172,7 +171,9 @@ footer{
 }
 
 
-
+.info{
+    padding:15px;
+}
 
 
 
